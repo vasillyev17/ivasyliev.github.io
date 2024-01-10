@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cbe7d1eb.css",
+    "main.js": "/static/js/main.c33ea3ab.js",
+    "static/js/787.0894cbc5.chunk.js": "/static/js/787.0894cbc5.chunk.js",
+    "static/media/banner-2.jpg": "/static/media/banner-2.8c37e1d45f9984149076.jpg",
+    "static/media/banner.jpg": "/static/media/banner.6385d3785c9d4ac7a7ff.jpg",
+    "static/media/CV_Ihor_Vasyliev.pdf": "/static/media/CV_Ihor_Vasyliev.3e09d143e83212bd6729.pdf",
+    "static/media/ava.png": "/static/media/ava.379c3f8268dfe59ad6ef.png",
+    "index.html": "/index.html",
+    "main.cbe7d1eb.css.map": "/static/css/main.cbe7d1eb.css.map",
+    "main.c33ea3ab.js.map": "/static/js/main.c33ea3ab.js.map",
+    "787.0894cbc5.chunk.js.map": "/static/js/787.0894cbc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbe7d1eb.css",
+    "static/js/main.c33ea3ab.js"
+  ]
+}
